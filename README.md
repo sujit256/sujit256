@@ -1,4 +1,9 @@
+💫 Hi 👋, I'm Suzeet Subedi
+Full Stack Developer | Web Developer | Open to Opportunities
 
+Passionate about building responsive, full-stack web applications using JavaScript, React, Tailwind CSS, Redux, Zustand, Node.js, Express, PHP, and SQL. Currently working on Mero Ghar, a real estate web app. Always learning new technologies and looking for collaboration and job opportunities.
+
+📫 Reach me: sujitsubedi567@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujitsubedi16/) 
 
