@@ -2,7 +2,11 @@
 
 Full Stack Developer | Open to Opportunities
 
-Passionate about building responsive, full-stack web applications using JavaScript, React, Tailwind CSS, Redux, Zustand, Node.js, Express, PHP, and SQL. Currently working on Mero Ghar, a real estate web app. Always learning new technologies and looking for collaboration and job opportunities.
+Passionate full-stack developer building modern, responsive, and user-friendly web applications.
+
+My core skills include React.js, Next.js, Node.js, Express, MongoDB, SQL, Tailwind CSS, Redux, Zustand, REST APIs, HTML, CSS, and JavaScript. I enjoy turning ideas into real products, writing clean code, and continuously improving my full-stack abilities.
+
+I’m actively seeking internship or entry-level opportunities in Full Stack, Frontend, or Backend Development.
 
 📫 Reach me: sujitsubedi567@gmail.com
 ## 🌐 Socials:
